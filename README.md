@@ -1,18 +1,4 @@
-# Mathematics for Machine Learning and Data Science Specialization - Coursera
-
-![title-banner](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera/assets/77543865/42742826-89a3-41c4-aa6a-6d0f83b260b6)
-
-Mathematics for Machine Learning and Data Science Specialization offered by deeplearning.ai , instructed by Luis Serrano on Coursera.
-
-<hr/>
-
-<br/>
-
-## Course 1 : [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra)
-
-<br/>
-
-- [Week 1](/C1/w1/)
+# Mathematics for Machine Learning and Data Science 
   - [Ungraded Lab - Introduction To Numpy Arrays](/C1/w1/lab/C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
   - [Ungraded Lab - Solving Linear Systems : 2 Variables](/C1/w1/lab/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
   - [Practice Quiz - Solving Systems of Linear Equations](/C1/w1/pq1/)
@@ -21,7 +7,6 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-- [Week 2](/C1/w2/)
   - [Ungraded Lab - Solving Linear Systems : 3 Variables](/C1/w2/C1w2_ungraded_lab.ipynb)
   - [Graded Quiz - The Rank of a Matrix](/C1/w2/q1/)
   - [Programming Assignment - System of Linear Equations](/C1/w2/C1w2_graded_lab/)
@@ -47,13 +32,10 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/4dcac0c68e690f1947739cc62143dc78)
-
-<hr/>
 
 <br/>
 
-## Course 2 : [Calculus For Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus)
+ [Calculus For Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus)
 
 <br/>
 
@@ -87,17 +69,8 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/5fa3a336a4fdfcb89879b8b828f8abbe)
 
-<hr/>
 
-<br/>
-
-## Course 3 : [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
-
-<br/>
-
-- [Week 1](/C3/w1/)
   - [Ungraded Lab - Birthday Problems](/C3/w1/lab/C3_W1_Lab_2_Birthday_Problems.ipynb)
   - [Practice Quiz](/C3/w1/pq1/)
   - [Graded Quiz - Summative quiz](/C3/w1/q1/)
@@ -128,7 +101,6 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### [Certificate Of Completion](https://coursera.org/share/10ba65d22dca9278c5119d7511bcec0b)
 
 <hr/>
 
